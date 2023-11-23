@@ -1,0 +1,19 @@
+{
+    "name": "emprestimos-avaliacao",
+    "version": "1.0.0",
+    "description": "Um sistema de empréstimo em TypeScript",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js"
+    },
+    "keywords": [
+        "emprestimo",
+        "typescript"
+    ],
+    "author": "Maurilo",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
