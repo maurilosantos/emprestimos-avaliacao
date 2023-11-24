@@ -1,6 +1,6 @@
-# Sistema de Empréstimo
+# Projetos
 
-Este projeto é um sistema de empréstimo simples de POO implementado em TypeScript. Ele automatiza a aprovação de empréstimos com base em critérios específicos para três tipos de empréstimos: pessoal, automóvel e estudantil. Cada tipo possui suas regras.
+Neste repositório há dois projetos. Este projeto atual é um sistema de empréstimo simples em POO implementado com TypeScript. Ele automatiza a aprovação de empréstimos com base em critérios específicos para três tipos de empréstimos: pessoal, automóvel e estudantil. Cada tipo possui suas regras. O segundo projeto se encontra no diretório Locadora de veículos.
 
 ## Como Executar
 
